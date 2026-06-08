@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/RCvm655.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here we are going to create a ticket in order for someone to help us with our sitution from your computer not turning on, resetting password, to rebooting your computer whatever situtation you need you have to start of with a ticket. If a customer calls and has yet to create a ticket you as a help desk can also create a ticket for the customer. 
+Here we are going to create a ticket in order for someone to help us with our situation from your computer not turning on, resetting password, to rebooting your computer whatever situtation you need you have to start of with a ticket. If a customer calls and has yet to create a ticket you as a help desk can also create a ticket for the customer. 
 </p>
 <br />
 
