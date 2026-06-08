@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/RCvm655.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here we are going to create a ticket in order for someone to help us with our situation from your computer not turning on, resetting password, to rebooting your computer whatever situtation you need you have to start of with a ticket. If a customer calls and has yet to create a ticket you as a help desk can also create a ticket for the customer. 
+Here we are going to create a ticket in order for someone to help us with our situation as far as your computer not turning on, resetting passwords, to rebooting your computer. whatever issue you may need help with you have to start with a ticket. If a customer calls and has yet to create a ticket, you as a help desk can also create a ticket for the customer. 
 </p>
 <br />
 
@@ -39,8 +39,8 @@ Here we are going to create a ticket in order for someone to help us with our si
 <img src="https://i.imgur.com/lMLV6r4.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Communicating with the customer is vary prompt even if you don't understand the ticket always communicate with the customer and keep them inform of the situtaion or can also get in contact with them and ask them about whats going on. Communcating with co workers is also important just in case you don't understand the customers ticket, but posting updates in the customers ticket is very important that why if someone can help you they will.
-Communicating with the customer is vary prompt even if you don't understand the ticket always communicate with the customer and keep them inform of the situtaion or can also get in contact with them and ask them about whats going on. Communcating with co workers is also important just in case you don't understand the customers ticket, but posting updates in the customers ticket is very important that way if someone can help you they will.
+Communicating with the customer is very important. even if you don't understand the ticket, always communicate with the customer and keep them informed of the situtaion or you can also get in contact with them to figure out what is going on exactly. Communcating with co-workers is also important just in case you don't understand the customers ticket. posting updates in the customers ticket is very important, that way if someone can help you they will.
+
 </p>
 <br />
 
@@ -48,7 +48,7 @@ Communicating with the customer is vary prompt even if you don't understand the 
 <img src="https://i.imgur.com/bmeWSHD.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once you finish with the customers request and helping them with the situation with there ticket you must closed the ticket. This will help you employer know you have finished the task in a reasonable time which you should always follow the SLA agreement in order to complete you ticket.
-Once you finish with the customers request and helping them with the situation with there ticket you must closed the ticket. This will help your employer know you have finished the task in a reasonable time which you should always follow the SLA agreement in order to complete you ticket.
+Once you have completed the customers request and helping them with the situation with their ticket, you must close the ticket. This will help your employer know you have finished the task in a reasonable time which you should always follow the SLA agreement in order to complete you ticket.
+
 </p>
 <br />
