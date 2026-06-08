@@ -39,7 +39,7 @@ Here we are going to create a ticket in order for someone to help us with our si
 <img src="https://i.imgur.com/lMLV6r4.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Communicating with the customer is very important. even if you don't understand the ticket, always communicate with the customer and keep them informed of the situtaion or you can also get in contact with them to figure out what is going on exactly. Communcating with co-workers is also important just in case you don't understand the customers ticket. posting updates in the customers ticket is very important, that way if someone can help you they will.
+Communicating with the customer is very important. even if you don't understand the ticket, always communicate with the customer and keep them informed of the situtaion or you can also get in contact with them to figure out what is going on exactly. Communicating with co-workers is also important just in case you don't understand the customers ticket. posting updates in the customers ticket is very important, that way if someone can help you they will.
 
 </p>
 <br />
